@@ -16,7 +16,7 @@ dl_htmlq
 
 # Patch YouTube Extended
 get_patches_key "youtube"
-version="18.31.37"
+get_ver "youtube-rve"
 get_apkmirror "youtube"
 patch "youtube" "youtube-revanced-extended-v$version"
 
